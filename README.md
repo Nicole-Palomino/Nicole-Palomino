@@ -1,5 +1,5 @@
 # 💫 About Me:
-✔️ I am 22 years old and I am from Piura, Peru.<br>✔️ I am currently studying the seventh cycle of Information Systems Management.<br>✔️ I am currently working on my own projects on soccer data analysis.
+✔️ I am 22 years old and I am from Piura, Peru.<br>✔️ I am currently studying the eighth semester of Information Systems Management.<br>✔️ I am currently working on my own projects on soccer data analysis.
 
 
 ## 🌐 Socials:
